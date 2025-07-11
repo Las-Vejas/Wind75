@@ -3,6 +3,26 @@ A 75% keyboard.
 
 This keyboard is composed of 68 switches, 1 Nice!nano2, a battery ill rip out from a power bank and a gpio pin expander.
 
+## CAD
+Made in fusion360.
+
+<img width="951" height="310" alt="SCR-20250711-spyf" src="https://github.com/user-attachments/assets/414769ef-7013-4d9e-97d0-2e70be63623e" />
+
+## PCB
+
+Lowk my best pcb so far.
+
+<img width="1137" height="377" alt="SCR-20250711-reem" src="https://github.com/user-attachments/assets/0e3cc8a7-d468-4123-bcf0-a11d4ef92673" />
+
+<img width="847" height="303" alt="SCR-20250711-shvm" src="https://github.com/user-attachments/assets/66532e51-84db-4526-9c75-05f38e05a9b8" />
+
+## Schematic
+
+<img width="983" height="373" alt="SCR-20250711-regw" src="https://github.com/user-attachments/assets/435909c7-04cc-481c-884f-4e594374a836" />
+
+## Firmware
+
+I am planning to use ZMK, but I would appreciate if it would be able to make it later.
 
 
 ## BOM
