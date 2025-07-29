@@ -27,3 +27,5 @@ I am adding more designs to my case. (18:40 - 19:19) I lowk hate Onshape.
 I added a hackclub flag on the sidebar where the pi pico and io expander are located.
 
 <img width="932" height="376" alt="image" src="https://github.com/user-attachments/assets/51a4ceee-09ed-4d91-9d75-b854c6cfc7e7" />
+
+20:35 - I wrote some simple KMK firmware for the keyboard, it has 1 layer and does nuffing.
