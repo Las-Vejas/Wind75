@@ -6,7 +6,8 @@ This keyboard is composed of 68 switches, 1 Nice!nano2, a battery ill rip out fr
 ## CAD
 Made in fusion360.
 
-<img width="951" height="310" alt="SCR-20250711-spyf" src="https://github.com/user-attachments/assets/414769ef-7013-4d9e-97d0-2e70be63623e" />
+<img width="1128" height="318" alt="image" src="https://github.com/user-attachments/assets/2b20966a-5ff2-4f3a-862a-b9d24d8b4122" />
+
 
 ## PCB
 
