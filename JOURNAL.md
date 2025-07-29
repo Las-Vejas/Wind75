@@ -10,6 +10,10 @@ I had routed my board but decided to completely reroute it to make it look nicer
 ### 15:15
 I started on a case design. I am using Fusion360 and if that doesn’t work I will use Shapr3d. The walls will be 7.5mm thick and 12.5mm tall. The floor will be 3mm tall.
 
+<img width="1325" height="616" alt="image" src="https://github.com/user-attachments/assets/004e6848-77d1-4df2-91c5-b9ae89644a54" />
+<img width="1109" height="520" alt="image" src="https://github.com/user-attachments/assets/626f44c6-099e-4e2b-8ed6-6255c6ba82b1" />
+
+
 I am making it sandwich mounted as it seems simplest for me.
 I added M2 holes (still searching for screw)
 I added M2 heatsets.
@@ -21,3 +25,5 @@ Done with the whole thing, only the readme left.
 
 I am adding more designs to my case. (18:40 - 19:19) I lowk hate Onshape.
 I added a hackclub flag on the sidebar where the pi pico and io expander are located.
+
+<img width="932" height="376" alt="image" src="https://github.com/user-attachments/assets/51a4ceee-09ed-4d91-9d75-b854c6cfc7e7" />
