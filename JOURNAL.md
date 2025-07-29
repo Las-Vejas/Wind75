@@ -1,6 +1,3 @@
-
-
-
 # JULY 11 2025
 
 ### 09:30
@@ -19,3 +16,7 @@ I added M2 heatsets.
 
 ### 21:39 
 Done with the whole thing, only the readme left.
+
+# JULY 29 2025
+
+I am adding more designs to my case. (18:40 - 19:19) I lowk hate Onshape.
