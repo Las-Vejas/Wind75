@@ -20,3 +20,4 @@ Done with the whole thing, only the readme left.
 # JULY 29 2025
 
 I am adding more designs to my case. (18:40 - 19:19) I lowk hate Onshape.
+I added a hackclub flag on the sidebar where the pi pico and io expander are located.
