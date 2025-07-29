@@ -24,7 +24,7 @@ Lowk my best pcb so far.
 
 ## Firmware
 
-I am planning to use KMK, but it isnt finished yet.
+I am using KMK, currently very basic.
 
 
 ## BOM
