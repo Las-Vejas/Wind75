@@ -1,3 +1,6 @@
+## Journal
+About 10hrs total.
+
 # JULY 11 2025
 
 ### 09:30
