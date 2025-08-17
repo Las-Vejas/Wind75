@@ -1,7 +1,7 @@
 ## Journal
-About 10hrs total.
+# About 10hrs total.
 
-# JULY 11 2025
+# JULY 11 2025 - 7hrs
 
 ### 09:30
 I started by choosing the layout which will be a 75% layout.
@@ -33,7 +33,7 @@ I added M2 heatsets.
 ### 21:39 
 Done with the whole thing, only the readme left.
 
-# JULY 29 2025
+# JULY 29 2025 - 3hrs
 
 I am adding more designs to my case. (18:40 - 19:19) I lowk hate Onshape.
 I added a hackclub flag on the sidebar where the pi pico and io expander are located.
