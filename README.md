@@ -3,6 +3,8 @@ A 75% keyboard.
 
 This keyboard is composed of 68 switches, 1 Nice!nano2, a battery ill rip out from a power bank and a gpio pin expander.
 
+I made this keyboard because ive been begging my mom to bring a keyboard back from her work and she keeps forgetting. And honestly id rather have a custom mechanical keyboard rather than a crusty office keyboard.
+
 ## CAD
 Made in fusion360.
 
