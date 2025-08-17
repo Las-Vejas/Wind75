@@ -8,7 +8,16 @@ I started by choosing the layout which will be a 75% layout.
 I decided to use the nice!nano2 as my microcontroller, which will let me make the keyboard wireless.
 It has 68 switches (currently) and a GPIO expender.
 
+Here are some images of my pcb and schematic: 
+
+<img width="2274" height="754" alt="image" src="https://github.com/user-attachments/assets/72263b00-482d-4d50-b653-9c57be82645d" />
+<img width="1966" height="746" alt="image" src="https://github.com/user-attachments/assets/a3acb3a6-d692-4887-9fe9-72109a3901f6" />
+
+
 I had routed my board but decided to completely reroute it to make it look nicer.
+
+I decided to make the keyboard because I was inspired by the Nuphy Air75 but I wanted mine to be a normal profile keyboard. As this was before they released the V3 I hadnt had the idea of adding rotary knobs or anything like that.
+
 
 ### 15:15
 I started on a case design. I am using Fusion360 and if that doesn’t work I will use Shapr3d. The walls will be 7.5mm thick and 12.5mm tall. The floor will be 3mm tall.
