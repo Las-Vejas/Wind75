@@ -19,3 +19,7 @@ I added M2 heatsets.
 
 ### 21:39 
 Done with the whole thing, only the readme left.
+
+# September 13
+
+I got my project approved. But when I checked DRC I saw a bunch of errors I had to fix. Because I reinstalled kicad my footprints also disappeared so I had to replace those. I have also added stabilizers to the pcb. Not done yet...
