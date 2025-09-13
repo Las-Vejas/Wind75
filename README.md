@@ -3,10 +3,13 @@ A 75% keyboard.
 
 This keyboard is composed of 68 switches, 1 Nice!nano2, a battery ill rip out from a power bank and a gpio pin expander.
 
+I made this keyboard because ive been begging my mom to bring a keyboard back from her work and she keeps forgetting. And honestly id rather have a custom mechanical keyboard rather than a crusty office keyboard.
+
 ## CAD
 Made in fusion360.
 
-<img width="951" height="310" alt="SCR-20250711-spyf" src="https://github.com/user-attachments/assets/414769ef-7013-4d9e-97d0-2e70be63623e" />
+<img width="1128" height="318" alt="image" src="https://github.com/user-attachments/assets/2b20966a-5ff2-4f3a-862a-b9d24d8b4122" />
+
 
 ## PCB
 
@@ -23,7 +26,7 @@ Lowk my best pcb so far.
 
 ## Firmware
 
-I am planning to use ZMK, but I would appreciate if it would be able to make it later.
+I am using KMK, currently very basic.
 
 
 ## BOM
@@ -37,4 +40,5 @@ I am planning to use ZMK, but I would appreciate if it would be able to make it 
 | MCP23017_SP           | 1            | $5.38     | [ali](https://www.aliexpress.com/item/1005008066849865.html?spm=a2g0o.productlist.main.1.ab74115c6dOQMz&algo_pvid=4cc48396-1822-4573-a8a4-94b192b8e4f9&algo_exp_id=4cc48396-1822-4573-a8a4-94b192b8e4f9-0&pdp_ext_f=%7B%22order%22%3A%22154%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%213.00%210.99%21%21%213.00%210.99%21%400b1bf20817522491014751504e77bc%2112000043519110514%21sea%21LT%216401819456%21ABX&curPageLogUid=RR561RSyNIcg&utparam-url=scene%3Asearch%7Cquery_from%3A)                                                                                                              |
 | Hot swap sockets      | 68           | $10.01    | [ali](https://www.aliexpress.com/item/1005008954571807.html?spm=a2g0o.productlist.main.17.7ca8777ddpQBY3&algo_pvid=7d831310-3855-4dd3-a4c6-0bbc6b7c0b72&algo_exp_id=7d831310-3855-4dd3-a4c6-0bbc6b7c0b72-16&pdp_ext_f=%7B%22order%22%3A%2274%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%214.26%210.99%21%21%2130.40%217.06%21%402101246417522513678455630ef01c%2112000047352129246%21sea%21LT%216401819456%21ABX&curPageLogUid=veWb9xhPkuZB&utparam-url=scene%3Asearch%7Cquery_from%3A)                                                                                                            |
 | PCB                   | 5            | $16.33    | N/A 
-|                       | TOTAL        | $81,45 | |
+| Keycaps               | 1            | $22.62    | [ali](https://www.aliexpress.com/item/1005008049516517.html?spm=a2g0o.productlist.main.7.10b069546DFMLj&algo_pvid=804c14ec-0d8e-4f0b-bc79-14bdb5ce7ff8&algo_exp_id=804c14ec-0d8e-4f0b-bc79-14bdb5ce7ff8-6&pdp_ext_f=%7B%22order%22%3A%22110%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21EUR%2116.55%2110.82%21%21%21135.18%2188.41%21%40211b81a317553510837492085e8c96%2112000043433491718%21sea%21LT%210%21ABX%211%210%21m03_new_user%3A-29895%3Bn_tag%3A-29910%3BpisId%3A5000000174211184&curPageLogUid=oB5lUzq4KaoT&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008049516517%7C_p_origin_prod%3A)
+|                       | TOTAL        | $95,02 | |
