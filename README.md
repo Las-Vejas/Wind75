@@ -5,6 +5,8 @@ This keyboard is composed of 68 switches, 1 Nice!nano2, a battery ill rip out fr
 
 I made this keyboard because ive been begging my mom to bring a keyboard back from her work and she keeps forgetting. And honestly id rather have a custom mechanical keyboard rather than a crusty office keyboard.
 
+# Everything below is deprecated as i have to remodel the whole entire thing as i forgot mounting holes (YAY) so reroute in progress.
+
 ## CAD
 Made in fusion360.
 
